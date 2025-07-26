@@ -1,4 +1,3 @@
-# .github/workflows/hash-check.yml
 name: Hash Files on Push
 
 on:
