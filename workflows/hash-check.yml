@@ -22,3 +22,4 @@ jobs:
     - name: Run hash script
       run: |
         python hasher.py <<< "./"
+# test run
